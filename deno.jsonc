@@ -1,0 +1,11 @@
+{
+  "lint": {
+    "include": ["src/"]
+  },
+  "fmt": {
+    "include": ["src/"]
+  },
+  "imports": {
+    "std": "https://deno.land/std@0.212.0/http/mod.ts"
+  }
+}
